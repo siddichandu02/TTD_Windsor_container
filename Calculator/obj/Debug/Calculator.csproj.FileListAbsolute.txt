@@ -1,0 +1,16 @@
+C:\Users\CS185304\Downloads\Projects2015\SalaryCalculatorTest\Calculator\bin\Debug\Calculator.dll
+C:\Users\CS185304\Downloads\Projects2015\SalaryCalculatorTest\Calculator\bin\Debug\Calculator.pdb
+C:\Users\CS185304\Downloads\Projects2015\SalaryCalculatorTest\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\CS185304\Downloads\Projects2015\SalaryCalculatorTest\Calculator\obj\Debug\Calculator.dll
+C:\Users\CS185304\Downloads\Projects2015\SalaryCalculatorTest\Calculator\obj\Debug\Calculator.pdb
+C:\Users\CS185304\Downloads\Projects2015\TestDrivenDevelopment\SalaryCalculatorTest\Calculator\bin\Debug\Calculator.dll
+C:\Users\CS185304\Downloads\Projects2015\TestDrivenDevelopment\SalaryCalculatorTest\Calculator\bin\Debug\Calculator.pdb
+C:\Users\CS185304\Downloads\Projects2015\TestDrivenDevelopment\SalaryCalculatorTest\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\CS185304\Downloads\Projects2015\TestDrivenDevelopment\SalaryCalculatorTest\Calculator\obj\Debug\Calculator.dll
+C:\Users\CS185304\Downloads\Projects2015\TestDrivenDevelopment\SalaryCalculatorTest\Calculator\obj\Debug\Calculator.pdb
+C:\Users\CS185304\Downloads\Projects2015\TestDrivenDevelopment\SalaryCalculatorTest\Calculator\bin\Debug\Castle.Core.dll
+C:\Users\CS185304\Downloads\Projects2015\TestDrivenDevelopment\SalaryCalculatorTest\Calculator\bin\Debug\Castle.Windsor.dll
+C:\Users\CS185304\Downloads\Projects2015\TestDrivenDevelopment\SalaryCalculatorTest\Calculator\bin\Debug\Castle.Core.xml
+C:\Users\CS185304\Downloads\Projects2015\TestDrivenDevelopment\SalaryCalculatorTest\Calculator\bin\Debug\Castle.Windsor.xml
+C:\Users\CS185304\Downloads\Projects2015\TestDrivenDevelopment\SalaryCalculatorTest\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\CS185304\Downloads\Projects2015\TestDrivenDevelopment\SalaryCalculatorTest\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
